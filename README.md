@@ -59,4 +59,3 @@ Neste perfil você encontrar vai encontrar os meus projetos desenvolvidos, minha
         Em breve novos conhecimentos</span></h4>
     </marquee>
 </div>
-
